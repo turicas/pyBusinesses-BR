@@ -14,11 +14,23 @@ Empresa | Site | Contato
 
 ## Sudeste
 
-### Minas Gerais
+### Belo Horizonte-MG
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+2XT                  | [http://www.2xt.com.br](http://www.2xt.com.br)                   | +55 31 3292-2120
+
+### Uberlândia-MG
 
 Empresa              | Site                                                             | Contato
  ------------------- | ---------------------------------------------------------------- | -----------------
 Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
+
+### São Paulo-SP
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Yacows               | [http://yacows.com.br](http://yacows.com.br)                     | +55 11 5505-22024
 
 ## Sul
 ### Florianópolis-SC
